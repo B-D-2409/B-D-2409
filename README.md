@@ -37,7 +37,6 @@ A collaborative real-time discussion platform built with React and Firebase as p
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/borislav-davidov-3b6013354/)
 - 📧 Email: borislav.2404g@gmail.com
-- 📄 [Download my resume](./BorislavDavidovResume.pdf) <!-- make sure the file is in the repo -->
 
 ---
 
