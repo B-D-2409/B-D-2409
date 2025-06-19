@@ -44,5 +44,5 @@ A collaborative real-time discussion platform built with React and Firebase as p
 
 ![Borislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-D-2409&show_icons=true&theme=tokyonight)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-D-2409&layout=compact&theme=tokyonight&hide=JS,JS,Makefile)
 
