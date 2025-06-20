@@ -3,7 +3,7 @@
 
 ---
 
-📍 I'm a 28-year-old front-end developer based in **Plovdiv, Bulgaria** (open to relocation under the right conditions).  
+📍 I'm a 28-year-old front-end developer based in **Plovdiv, Bulgaria**  
 🎓 I graduated from the **Alpha JavaScript Program at Telerik Academy**.  
 🚀 Currently rewriting my final project — an **Event Calendar** — using **TypeScript** and **MongoDB**.  
 💡 I'm passionate about problem-solving, clean UI, and building scalable, modern web applications.
