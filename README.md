@@ -23,16 +23,6 @@
 
 ---
 
-## 📂 Projects
-
-🔹 **[Giphy App](https://github.com/B-D-2409)**  
-A responsive GIF browsing app with user authentication, real-time Firebase updates, and REST API integration.
-
-🔹 **Debate Forum**  
-A collaborative real-time discussion platform built with React and Firebase as part of an academy module.
-
----
-
 ## 📫 Connect With Me:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/borislav-davidov-3b6013354/)
