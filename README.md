@@ -5,6 +5,7 @@
 
 📍 I'm a 28-year-old front-end developer based in **Plovdiv, Bulgaria**  
 🎓 I graduated from the **Alpha JavaScript Program at Telerik Academy**.
+
 🚀 Working on a real client project for a non-profit, building a full-stack website with JavaScript and MongoDB to manage and display their activities and events. 
 💡 I'm passionate about problem-solving, clean UI, and building scalable, modern web applications.
 
