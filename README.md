@@ -7,7 +7,7 @@
 
 🎓 I graduated from the **Alpha JavaScript Program at Telerik Academy**.
 
-🚀 Working on a real client project for a non-profit organization, building a full-stack website with JavaScript and MongoDB to manage and display their activities and events.
+🚀 Working on a real client project for a non-profit organization, building a full-stack website with JavaScript and Firebase to manage and display their activities and events.
 
 💡 I'm passionate about problem-solving, clean UI, and building scalable, modern web applications.
 
