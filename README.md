@@ -36,9 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-D-2409&layout=compact&theme=tokyonight&hide=javascript,html,css)
-
+## 📊 GitHub Stats: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-D-2409&layout=compact&theme=tokyonight&hide=JS,JS,Makefile)
 
 
