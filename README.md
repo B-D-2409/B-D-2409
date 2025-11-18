@@ -7,7 +7,7 @@
 
 🎓 I graduated from the **Alpha JavaScript Program at Telerik Academy**.
 
-🚀 Working on a real client project for car parts and cars, building a full-stack website with TypeScript, Next.js, Tailwind CSS, and MongoDB, focusing on responsive design, interactive components, and a seamless user experience.
+“🚀 I’m currently taking a 100-day Python course on Udemy to expand my developer skillset and become a more versatile engineer.”
 
 💡 I'm passionate about problem-solving, clean UI, and building scalable, modern web applications.
 
