@@ -24,6 +24,11 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Microsoft%20SQL%20Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
 
 
 
