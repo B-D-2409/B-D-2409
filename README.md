@@ -3,13 +3,14 @@
 
 ---
 
-📍 I'm a 28-year-old front-end developer based in **Plovdiv, Bulgaria** 
+📍 I'm a 29-year-old Software developer based in **Plovdiv, Bulgaria** 
 
 🎓 I graduated from the **Alpha JavaScript Program at Telerik Academy**.
 
-“🚀 I’m currently taking a 100-day Python course on Udemy to expand my developer skillset and become a more versatile engineer.”
+“🚀 I’m currently practicing SQL and the Python Pandas library to develop my ability to work with real-world datasets.”
 
-💡 I'm passionate about problem-solving, clean UI, and building scalable, modern web applications.
+💡 I'm passionate about problem-solving, clean UI, and building scalable, modern web applications — 
+   and I enjoy working with data pipelines, querying databases with SQL, and analyzing datasets in Python (Pandas).
 
 ---
 
