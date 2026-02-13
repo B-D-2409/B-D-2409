@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Borislav</h1>
-<h3 align="center">JavaScript Developer | Passionate about building user-focused web applications</h3>
+<h3 align="center">
+  React & Python Developer 🛠️ Transforming Complex Ideas into Production-Ready Software
+</h3>
 
 ---
 
