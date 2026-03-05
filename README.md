@@ -45,7 +45,7 @@
 ---
 
 ## 📊 GitHub Stats: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-D-2409&layout=compact&theme=tokyonight&count_private=true&v=2)
+![Top Langs](https://vercel-readme-stats-two.vercel.app/api/top-langs/?username=B-D-2409&layout=compact&theme=tokyonight)
 
 
 
