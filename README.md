@@ -9,7 +9,7 @@
 
 🎓 I graduated from the **Alpha JavaScript Program at Telerik Academy**.
 
-“🚀 I’m currently practicing SQL and the Python Pandas library to develop my ability to work with real-world datasets.”
+“🚀 I’m currently working as a Freelancer in Upwork platform as a Full Stack Developer.”
 
 💡 I'm passionate about problem-solving, clean UI, and building scalable, modern web applications — 
    and I enjoy working with data pipelines, querying databases with SQL, and analyzing datasets in Python (Pandas).
